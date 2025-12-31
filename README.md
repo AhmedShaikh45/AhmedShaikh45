@@ -78,7 +78,8 @@ I focus on **strong fundamentals, consistency, and real-world problem solving**.
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: www.linkedin.com/in/ahmed-shaikh2004
+
+- 📧 Email: ahmedali.n.shaikh45@gmail.com 
 
 Open to **internships, collaborations, and data-focused roles** 🚀
