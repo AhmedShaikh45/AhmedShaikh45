@@ -82,11 +82,9 @@ I strongly believe:
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 GitHub Streak
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedShaikh45&show_icons=true&hide_title=false&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShaikh45&layout=compact&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=AhmedShaikh45" />
 
 
 ---
