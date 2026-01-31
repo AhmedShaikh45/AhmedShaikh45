@@ -84,9 +84,10 @@ I strongly believe:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedShaikh45&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedShaikh45&show_icons=true&hide_title=false&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShaikh45&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShaikh45&layout=compact&langs_count=8" />
+
 
 ---
 
