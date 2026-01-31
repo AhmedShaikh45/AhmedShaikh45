@@ -82,13 +82,6 @@ I strongly believe:
 
 ---
 
-## 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=AhmedShaikh45" />
-
-
----
-
 ## 🔥 GitHub Streak Stats
 
 > Showing **consistency & discipline**
