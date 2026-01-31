@@ -12,10 +12,10 @@ I strongly believe:
 ---
 
 ## 🧠 About Me
-- Passionate about **data analysis, machine learning, and analytics**
-- Focused on **EDA, data cleaning, and feature engineering**
-- Believe in **strong fundamentals & consistency**
-- Actively building and sharing projects on GitHub
+- Passionate about **Data Science, Analytics & Machine Learning**
+- Strong focus on **EDA, data cleaning, and feature engineering**
+- Believe in **fundamentals > fancy tools**
+- Actively building **real-world, end-to-end projects**
 
 ---
 
@@ -44,54 +44,57 @@ I strongly believe:
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Big Projects (Highlighted)
 
-### 🔹 Customer Insights – EDA & Data Cleaning
-📊 **Exploratory Data Analysis Project**
+### ⭐ Customer Insights – EDA & Data Cleaning
+📊 **End-to-End Data Analysis Project**
 
-- Performed end-to-end EDA on customer datasets  
-- Handled missing values, outliers, and skewed distributions  
-- Created visual insights to support data-driven decisions  
+- Performed **complete EDA workflow** on raw customer data  
+- Cleaned missing values, handled outliers & skewed distributions  
+- Created **business-ready visual insights**  
+- Focused on **data quality & interpretability**
 
-**Tech:** Pandas • Seaborn • Jupyter  
-
----
-
-### 🔹 Churn Predictor – Machine Learning
-🧠 **Classification Project**
-
-- Built a complete ML pipeline from scratch  
-- Applied feature engineering and model evaluation  
-- Improved performance using hyperparameter tuning  
-
-**Tech:** scikit-learn • XGBoost  
+**Tech Stack:** Pandas • Seaborn • Jupyter  
 
 ---
 
-### 🔹 Model Explorer – Streamlit App
-🚀 **Interactive ML Application**
+### ⭐ Churn Predictor – Machine Learning
+🧠 **Production-Style ML Classification Project**
 
-- Developed a Streamlit web app for ML predictions  
-- Enabled real-time scenario testing  
-- Simplified model usage with a clean UI  
+- Built a **full ML pipeline** (data → features → model → evaluation)  
+- Implemented feature engineering & model comparison  
+- Used **hyperparameter tuning** to improve performance  
+- Evaluated using **Precision, Recall & F1-score**
 
-**Tech:** Streamlit • Plotly • scikit-learn  
+**Tech Stack:** scikit-learn • XGBoost  
+
+---
+
+### ⭐ Model Explorer – Streamlit App
+🚀 **Interactive ML Web Application**
+
+- Developed a **Streamlit app** to interact with ML models  
+- Enabled **real-time prediction testing**  
+- Converted ML logic into a **user-friendly interface**  
+- Focused on usability & clarity
+
+**Tech Stack:** Streamlit • Plotly • scikit-learn  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedShaikh45&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedShaikh45&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShaikh45&layout=compact)
 
 ---
 
-## 🔥 Contribution Activity
+## 🔥 GitHub Streak Stats
 
-> Consistency matters more than virality.
+> Showing **consistency & discipline**
 
-![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedShaikh45&theme=github-light)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedShaikh45&theme=default)
 
 ---
 
