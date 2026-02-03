@@ -102,7 +102,7 @@ I enjoy solving **real-world data problems** — turning messy, raw datasets int
 
 > **Consistency > Intensity**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedShaikh45&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=AhmedShaikh45&theme=radical)
 
 ---
 
