@@ -4,18 +4,19 @@
 📊 **Data Science & Machine Learning Enthusiast**  
 🐍 Python | 🧠 ML | 🗄️ SQL | 📈 Data Analysis  
 
-I enjoy working on **real-world data problems** — turning messy datasets into meaningful insights.  
-I strongly believe:
+I enjoy solving **real-world data problems** — turning messy, raw datasets into **clear insights and reliable models**.
 
-> **Good models come from good data, not fancy algorithms.**
+> **“Good models come from good data, not fancy algorithms.”**
 
 ---
 
 ## 🧠 About Me
+
 - Passionate about **Data Science, Analytics & Machine Learning**
-- Strong focus on **EDA, data cleaning, and feature engineering**
-- Believe in **fundamentals > fancy tools**
-- Actively building **real-world, end-to-end projects**
+- Strong believer in **EDA, data cleaning & feature engineering**
+- Prefer **strong fundamentals over shortcuts**
+- Actively building **end-to-end, real-world projects**
+- Focused on **interpretability, data quality & business impact**
 
 ---
 
@@ -25,15 +26,16 @@ I strongly believe:
 - **Python**
 - **SQL**
 
-### 📊 Data Analysis & Machine Learning
+### 📊 Data Science & Machine Learning
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Feature Engineering
-- Classification & Regression
-- Model Evaluation (Accuracy, Precision, Recall, F1-score)
+- Supervised ML (Classification & Regression)
+- Model Evaluation: Accuracy, Precision, Recall, F1-Score
+- Hyperparameter Tuning
 
 ### 📚 Libraries & Frameworks
 - Pandas • NumPy  
-- Matplotlib • Seaborn  
+- Matplotlib • Seaborn • Plotly  
 - scikit-learn • XGBoost  
 - Streamlit  
 
@@ -44,63 +46,79 @@ I strongly believe:
 
 ---
 
-## 🚀 Big Projects (Highlighted)
+## 🚀 Featured Projects (Updated)
 
-### ⭐ Customer Insights – EDA & Data Cleaning
-📊 **End-to-End Data Analysis Project**
+### ⭐ Customer Insights & Data Quality Audit
+📊 **End-to-End Exploratory Data Analysis Project**
 
-- Performed **complete EDA workflow** on raw customer data  
-- Cleaned missing values, handled outliers & skewed distributions  
-- Created **business-ready visual insights**  
-- Focused on **data quality & interpretability**
+- Performed **complete EDA lifecycle** on raw customer data  
+- Handled **missing values, outliers & skewed distributions**
+- Conducted **data quality checks** and consistency analysis  
+- Generated **business-ready visual insights**
+- Focused on **interpretability & decision-making**
 
-**Tech Stack:** Pandas • Seaborn • Jupyter  
-
----
-
-### ⭐ Churn Predictor – Machine Learning
-🧠 **Production-Style ML Classification Project**
-
-- Built a **full ML pipeline** (data → features → model → evaluation)  
-- Implemented feature engineering & model comparison  
-- Used **hyperparameter tuning** to improve performance  
-- Evaluated using **Precision, Recall & F1-score**
-
-**Tech Stack:** scikit-learn • XGBoost  
+**Tech Stack:** Pandas • NumPy • Seaborn • Matplotlib • Jupyter  
 
 ---
 
-### ⭐ Model Explorer – Streamlit App
-🚀 **Interactive ML Web Application**
+### ⭐ Customer Churn Prediction System
+🧠 **Machine Learning Classification Project**
 
-- Developed a **Streamlit app** to interact with ML models  
-- Enabled **real-time prediction testing**  
-- Converted ML logic into a **user-friendly interface**  
-- Focused on usability & clarity
+- Built a **full ML pipeline** (data → features → model → evaluation)
+- Applied **feature engineering & encoding techniques**
+- Compared multiple models (Logistic Regression, Tree-based models)
+- Used **hyperparameter tuning** to improve performance
+- Evaluated using **Precision, Recall & F1-Score** (business-driven metrics)
+
+**Tech Stack:** scikit-learn • XGBoost • Pandas  
+
+---
+
+### ⭐ Interactive ML Model Explorer (Streamlit App)
+🚀 **ML Web Application**
+
+- Developed an **interactive Streamlit application**
+- Allowed users to **test predictions in real time**
+- Integrated **trained ML models into a UI**
+- Focused on **clarity, usability & explainability**
 
 **Tech Stack:** Streamlit • Plotly • scikit-learn  
 
 ---
 
-## 🔥 GitHub Streak Stats
+### ⭐ Resume Screening System (NLP Project)
+📄 **Beginner-Friendly NLP Application**
 
-> Showing **consistency & discipline**
+- Built a **resume screening system using text processing**
+- Applied **text cleaning, tokenization & vectorization**
+- Compared resumes against job descriptions
+- Designed for **real-world HR use cases**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedShaikh45&theme=default)
+**Tech Stack:** Python • NLP • scikit-learn  
 
 ---
 
-## 📜 Badges
+## 🔥 GitHub Streak & Activity
+
+> **Consistency > Intensity**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedShaikh45&theme=radical)
+
+---
+
+## 📜 Tech Badges
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
 ## 📫 Let’s Connect
+
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-shaikh2004  
 - 📧 **Email:** ahmedali.n.shaikh45@gmail.com  
 
-🚀 Open to **internships, collaborations, and data-focused roles**
+🚀 Open to **Data Science / ML internships**, **entry-level roles**, and **collaborations**
