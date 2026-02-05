@@ -101,14 +101,7 @@ I enjoy solving **real-world data problems** — turning messy, raw datasets int
 ## 🔥 GitHub Streak & Activity
 
 > **Consistency > Intensity**
-[
-![](https://github-readme-stats.vercel.app/api?username=AhmedShaikh45&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedShaikh45&theme=radical&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShaikh45&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-](https://github.cards/AhmedShaikh45?template=Default)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedShaikh45&hide_border=true" alt="GitHub Streak" /></a>
 ---
 
 ## 📜 Tech Badges
