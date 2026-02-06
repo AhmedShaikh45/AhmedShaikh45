@@ -97,13 +97,13 @@ I enjoy solving **real-world data problems** — turning messy, raw datasets int
 **Tech Stack:** Python • NLP • scikit-learn  
 
 ---
-## 🔥 GitHub Streak
-> **Consistency > Intensity**
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedShaikh45&hide_border=true&theme=github-dark" alt="Ahmed's GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedShaikh45&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=AhmedShaikh45&theme=default&hide_border=true" height="150" />
 </p>
+
 ---
 
 ## 📜 Tech Badges
