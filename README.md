@@ -1,7 +1,5 @@
 <!-- Animated Typing Header -->
-<h1 align="center">
-  Hi 👋, I'm Ahmed
-</h1>
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Turning+Data+into+Insights;Future+AI+Engineer" />
@@ -83,16 +81,10 @@ https://github.com/AhmedShaikh45/ai-tech-job-matching
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+LinkedIn: https://www.linkedin.com/  
+Email: your.email@example.com  
 
 ---
 
