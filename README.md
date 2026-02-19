@@ -83,8 +83,14 @@ https://github.com/AhmedShaikh45/ai-tech-job-matching
 
 ## 📫 Connect With Me
 
-LinkedIn: linkedin.com/in/ahmed-shaikh2004 
-Email: ahmedali.n.shaikh45@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-shaikh2004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedali.n.shaikh45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmedali.n.shaikh45%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
