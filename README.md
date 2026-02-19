@@ -83,8 +83,8 @@ https://github.com/AhmedShaikh45/ai-tech-job-matching
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/  
-Email: your.email@example.com  
+LinkedIn: linkedin.com/in/ahmed-shaikh2004 
+Email: ahmedali.n.shaikh45@gmail.com
 
 ---
 
