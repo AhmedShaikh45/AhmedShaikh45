@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻About Me
 
 - 🔍 Passionate about **Data Science, Machine Learning, and AI**
 - 📊 Love transforming **raw data → meaningful insights**
