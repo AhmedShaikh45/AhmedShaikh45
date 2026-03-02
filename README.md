@@ -74,7 +74,7 @@ https://github.com/AhmedShaikh45/ai-tech-job-matching
 
 ## 🧠 Currently Learning
 
-- Deep Learning & Neural Networks  
+- Deep Learning & Neural Networks   
 - Natural Language Processing (NLP)  
 - End-to-End ML Deployment  
 - Advanced Data Visualization  
