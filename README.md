@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ### 👨‍💻 Programming & Databases
 <p>
