@@ -1,38 +1,99 @@
-# Enhanced AI Engineer
+<!-- Animated Typing Header -->
+<h1 align="center">Hi 👋, I'm Ahmed</h1>
 
-Welcome to my GitHub Profile! 🚀  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Learner;Turning+Data+into+Insights;Future+AI+Engineer" />
+</p>
 
-## About Me  
-As an AI Engineer, I'm passionate about developing intelligent solutions to improve efficiency and solve complex problems. I leverage machine learning, natural language processing, and deep learning technologies to create state-of-the-art applications.
+---
 
-## Tech Stack  
-- **Languages:** Python, Java, JavaScript, C++  
-- **Frameworks:** TensorFlow, PyTorch, Flask, Django  
-- **Databases:** SQL, MongoDB  
-- **Tools:** Git, Jupyter, Docker  
+<!-- Data Science Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500"/>
+</p>
 
-![AI Theme GIF](https://media.giphy.com/media/JIXley3nwnYQ8/giphy.gif)
+---
 
-## Featured Projects  
-1. **AI Chatbot**  
-   An intelligent chatbot that interacts with users in real time and learns from conversations.
-2. **Image Recognition System**  
-   A project that uses deep learning models to classify images.
-3. **Recommendation System**  
-   A solution that suggests products based on user behavior and preferences.
+## 👨‍💻About Me
 
-![Projects GIF](https://media.giphy.com/media/l3vR77h2gZ4popG98/giphy.gif)
+- 🔍 Passionate about **Data Science, Machine Learning, and AI**
+- 📊 Love transforming **raw data → meaningful insights**
+- 🧠 Currently learning **Deep Learning & NLP**
+- 💼 Interested in **Data Science Internships & Full-time Roles**
+- 🚀 Building real-world **AI-powered analytics projects**
+- 🤝 Open to **collaboration & innovation**
 
-## My Learning Journey  
-I'm continuously learning and improving my skills. I've completed various courses and certifications in AI and machine learning. Here are some highlights:
-- **AI & Machine Learning Specialization** - Coursera  
-- **Deep Learning** - Andrew Ng  
+---
 
-### Modern Design Elements  
-This README reflects my dynamic approach to learning and growing in the field of AI. I'm always exploring new trends and technologies to stay ahead.  
+## 🛠️ Tech Stack 
 
-Feel free to connect with me and explore my work!  
+### 👨‍💻 Programming & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite" />
+</p>
 
-## Contact  
-Email: ahmed.shaikh45@example.com  
-LinkedIn: [ahmedshaikh45](https://www.linkedin.com/in/ahmedshaikh45)  
+### 📊 Data Science & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 📈 Visualization & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,excel,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedShaikh45&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShaikh45&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedShaikh45&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🤖 AI Tech Job Matching System
+- Matches candidates with **relevant tech jobs using ML & NLP**
+- Performs **skill extraction, similarity scoring, and recommendations**
+- Built using **Python, Machine Learning, and data processing**
+
+🔗 **Repo:**  
+https://github.com/AhmedShaikh45/ai-tech-job-matching
+
+---
+
+## 🧠 Currently Learning
+
+- Deep Learning & Neural Networks   
+- Natural Language Processing (NLP)  
+- End-to-End ML Deployment  
+- Advanced Data Visualization  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-shaikh2004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmedali.n.shaikh45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmedali.n.shaikh45%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>"Turning data into decisions, and ideas into impact."</i> ⭐
+</p>
